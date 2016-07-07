@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Macys Q3 -Q4 Furniture Sale",
+        "goal": 90,
+        "timeline":400,
+        "timelineActive":346,
+        "data1":[500, 200, 600, 40, 550, 250],
+        "data2":[ 250, 80, 90, 40, 15, 25],
+        "advertiser":"Macys",
+        "impression":"77,300",
+        "vcr":"0.22",
+        "cpm":"$5.62",
+        "ctr":"0.01"
+    },
+    {
+        "id": 2,
+        "name": "AT&T General Market 2014",
+        "goal": 50,
+        "timeline":200,
+        "timelineActive":84,
+        "data1":[30, 200, 100, 400, 150, 250],
+        "data2":[ 50, 20, 10, 40, 15, 25],
+        "advertiser":"AT&T",
+        "impression":"34,300",
+        "vcr":"0.56",
+        "cpm":"$2.14",
+        "ctr":"0.45"
+    },
+    {
+        "id": 3,
+        "name": "Nike World Cup August",
+        "goal": 70,
+        "timeline":400,
+        "timelineActive":259,
+        "data1":[130, 240, 100, 200, 450, 250],
+        "data2":[ 300, 340, 110, 230, 15, 500],
+        "advertiser":"Nike",
+        "impression":"32,300",
+        "vcr":"0.28",
+        "cpm":"$4.22",
+        "ctr":"0.12"
+    }
+]

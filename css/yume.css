@@ -1,0 +1,139 @@
+body{
+      padding: 0px;
+      margin: 0px;
+      height:1200px;
+    }
+    .wrapper{
+      width:1229px;
+      margin:0px auto;
+    }
+    .header{
+      height:169px;
+      width:auto;
+      background:url(../images/header.jpg);
+    }
+    .hiddenRow {
+      padding: 0 !important;
+      height:auto !important;
+      border-top: none !important;
+      border-bottom:1px solid #DDD;
+     }
+     .buttonGroup{
+        height:106px;
+        width:auto;
+        background:url(../images/buttonGroup.jpg);
+        margin-bottom:55px;
+     }
+     .filter{
+        position: relative;
+        top: 41px;
+        left: 30px;
+     }
+     .checkCls{
+        margin-top: -2px !important;
+        margin-right: 20px !important;
+     }
+     .nameTd{
+       width:350px;
+       border-left: 1px solid #DDD;
+     }
+     .dayTd{
+       width:82px;
+       border-left: 1px solid #DDD;
+     }
+     th{
+       border-left: 1px solid #DDD;
+       color:#bbbbbf;
+       font-size: .85em;
+       height:34px;
+       vertical-align: middle !important;
+     }
+     .goalTd{
+        width:190px;
+        border-left:none;
+        text-align:right;
+     }
+     td:first-child, th:first-child{
+       border-left:none;
+     }
+     tr.contentTd{
+       height: 49px;
+     }
+     td{
+        vertical-align: middle !important;
+     }
+     .chartCls{
+       width: 425px !important;
+       height: 224px !important;
+       position: absolute !important;
+       top: 32px;
+       left: 12px;
+     }
+    .timeline{
+      position: absolute;
+      height: 30px;
+      background: #DDD;
+      margin-top: -15px;
+    }
+    .timelineActive{
+      position: absolute;
+      height: 30px;
+      background: #35393a;
+      margin-top: -15px;
+    }
+    .timelineMarker{
+      position: absolute;
+      top: 310px;
+      left: 838px;
+    }
+    .search{
+      width: 290px;
+      height: 30px !important;
+      color: black;
+      border-radius: 2px !important;
+    }
+    .progressBG{
+      background-image: linear-gradient(to bottom, #35393a, #35393a) !important;
+    }
+    .progressContainer{
+        margin-top: 20px;
+    }
+    .headingName{
+       margin-left: 38px;
+    }
+    .nameColor{
+      color: #4fb2ca;
+      font-size: 1.1em;
+      margin-left: 13px;
+      cursor:pointer;
+    }
+    table .myCollapse.in {
+        display: table-row !important;
+    }
+    @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+     .timelineMarker{
+       left:849px;
+     }
+    }
+    .detailTxt{
+      position: absolute;
+      top: 44px;
+      left: 514px;
+      font-size: 2.3em;
+      color: #4fb2ca;
+    }
+    .detailMetrics{
+      top: 133px !important;
+      font-size: 1.8em !important;
+    }
+    .metricsSpace{
+      margin-left: 48px;
+    }
+    .metricsSpace2{
+      margin-left: 87px;
+    }
+    .metricsSpace3{
+      margin-left: 62px;
+    }
+    
+    
